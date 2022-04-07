@@ -1,0 +1,14 @@
+[
+    {
+        "id":"light",
+        "name":"Light",
+        "background":"light-background",
+        "class":"theme-mode-light"
+    },
+    {
+        "id":"dark",
+        "name":"Dark",
+        "background":"Dark-background",
+        "class":"theme-mode-Dark"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-sun bx-tada",
+        "count": "120 kW",
+        "title": "Daily Generation"
+    },
+    {
+        "icon": "bx bx-bolt-circle bx-tada",
+        "count": "5kW/h",
+        "title": "Generation Rate"
+    },
+    {
+        "icon": "bx bx-plus-circle bx-tada",
+        "count": "20 MkW",
+        "title": "Total Generation"
+    },
+    {
+        "icon": "bx bx-chevrons-up bx-tada",
+        "count": "105 kW/h",
+        "title": "Average Generation per day"
+    }
+]

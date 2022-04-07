@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-pulse bx-burst",
+        "count": "70 ppm",
+        "title": "CO"
+    },
+    {
+        "icon": "bx bxs-virus bx-burst",
+        "count": "40 ppm",
+        "title": "NO2"
+    },
+    {
+        "icon": "bx bxs-virus bx-burst",
+        "count": "0.75 ppm",
+        "title": "O3"
+    },
+    {
+        "icon": "bx bx-pulse bx-burst",
+        "count": "40 ug/m3",
+        "title": "Particulate Pollution"
+    }
+]
